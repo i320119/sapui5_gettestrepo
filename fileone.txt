@@ -3,6 +3,7 @@ file one added master line 1
 file one added master line 2
 file one added master line 3
 file one added master line 4
+file one added master line 5
 file one line two added feature line 2 
-file one added master line 4
+
 

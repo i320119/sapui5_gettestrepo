@@ -1,4 +1,5 @@
 grandfather = Shankar b
 grandmother = Nagarathna
 son = Vishwanath Shankar
-daughter = priya
+daughter = Priya
+daughter in law = Reshma
